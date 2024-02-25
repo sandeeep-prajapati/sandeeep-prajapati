@@ -13,7 +13,7 @@ Just completed 1.5 years in my coding journey
 * 🤝  I'm open to collaborating on Anything related to Webapps
 * 🤝  I'm lokking friends who is intrusted in AI/ML, DevOps, IOTs, Web-Development
 
-> ------------------------- ***My Experience in following tech*** -------------------------
+## My Experience in following tech
 <img src = "./icons/HTML.svg" style = "width : 30px"> : **HTML**
 <img src = "./icons/CSS.svg" style = "width : 30px"> : **CSS**
 <img src = "./icons/Bootstrap.svg" style = "width : 30px"> : **Bootstrap**
